@@ -4,7 +4,7 @@
 #include <cmath>
 #include <climits>
 #include<ctime>
-#include <cstdlib> // for rand()
+#include <cstdlib> 
 
 using namespace std;
 
